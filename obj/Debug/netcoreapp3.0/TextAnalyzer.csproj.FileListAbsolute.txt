@@ -1,0 +1,11 @@
+C:\Users\KLIENTKA\source\repos\TextAnalyzer\bin\Debug\netcoreapp3.0\TextAnalyzer.exe
+C:\Users\KLIENTKA\source\repos\TextAnalyzer\bin\Debug\netcoreapp3.0\TextAnalyzer.deps.json
+C:\Users\KLIENTKA\source\repos\TextAnalyzer\bin\Debug\netcoreapp3.0\TextAnalyzer.runtimeconfig.json
+C:\Users\KLIENTKA\source\repos\TextAnalyzer\bin\Debug\netcoreapp3.0\TextAnalyzer.runtimeconfig.dev.json
+C:\Users\KLIENTKA\source\repos\TextAnalyzer\bin\Debug\netcoreapp3.0\TextAnalyzer.dll
+C:\Users\KLIENTKA\source\repos\TextAnalyzer\bin\Debug\netcoreapp3.0\TextAnalyzer.pdb
+C:\Users\KLIENTKA\source\repos\TextAnalyzer\obj\Debug\netcoreapp3.0\TextAnalyzer.csprojAssemblyReference.cache
+C:\Users\KLIENTKA\source\repos\TextAnalyzer\obj\Debug\netcoreapp3.0\TextAnalyzer.AssemblyInfoInputs.cache
+C:\Users\KLIENTKA\source\repos\TextAnalyzer\obj\Debug\netcoreapp3.0\TextAnalyzer.AssemblyInfo.cs
+C:\Users\KLIENTKA\source\repos\TextAnalyzer\obj\Debug\netcoreapp3.0\TextAnalyzer.dll
+C:\Users\KLIENTKA\source\repos\TextAnalyzer\obj\Debug\netcoreapp3.0\TextAnalyzer.pdb
